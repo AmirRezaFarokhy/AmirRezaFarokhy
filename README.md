@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋...</h1>
+<h1 align="center"> Hi there ...👋</h1>
 <h3 align="center">A man with knowledge of BackEnd, DataScience and AI</h3>
 
 ____
@@ -13,7 +13,7 @@ ____
 # 🔭 Expertise
 * Linux
 * Machine and Deep Learning (NLP, Image Processing, LLM, ...)
-* Docker and DevOps
+* Docker and DevOps :whale:
 * Big Data processing and distributed computing frameworks (Spark)
 * Back-End 
 * Django and Django Rest Framework (DRF)
