@@ -1,4 +1,5 @@
-<h2 align="center"> Hi there 👋..., I'm Amire Reza Farokhy </h2>
+<h1align="center"> Hi there 👋..., </h1>
+<h2 align="center"> I'm Amire Reza Farokhy </h2>
 <h3 align="center">A man with knowledge of BackEnd, DataScience and AI</h3>
 
 ____
