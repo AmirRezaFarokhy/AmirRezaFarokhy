@@ -7,6 +7,7 @@ ____
 
 My name is `Amirreza` from Iran. I am a Python programmer. I learned Python since I was 15 years old and now I'm into Machine Learning, Deep Learning and Back End (Django, FastAPI) and I'm trying to update my knowledge in these areas.
 
+##### ✉️ How to reach me amirreza.farokhy81@gmail.com
 ____
 
 # 🔭 Expertise
