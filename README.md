@@ -11,8 +11,8 @@ My name is `Amirreza` from Iran. I am a Python programmer. I learned Python sinc
 ____
 
 # 🔭 Expertise
-* Linux :ubuntu:
-* python :python:
+* Linux
+* python 🐍
 * Machine and Deep Learning (NLP, Image Processing, LLM, ...) 🤖:
 * Docker :whale: and DevOps 
 * Big Data processing and distributed computing frameworks (Spark)
