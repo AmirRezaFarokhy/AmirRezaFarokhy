@@ -39,9 +39,9 @@ ____
 <h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/alirezanezami1">
-<div><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirezanezami1&theme=github_dark" height="180em" /></div>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alirezanezami1&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alirezanezami1&theme=github_dark" height="180em" />
+<div><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirrezafarokhy&theme=github_dark" height="180em" /></div>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirrezafarokhy&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirrezafarokhy&theme=github_dark" height="180em" />
 </div>
 </div>
 
