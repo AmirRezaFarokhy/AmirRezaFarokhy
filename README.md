@@ -9,7 +9,7 @@ My name is `Amirreza` from Iran. I am a Python programmer. I learned Python sinc
 ##### ✉️ How to reach me amirreza.farokhy81@gmail.com
 
 # 🔭 Expertise
-* Linux <img  src="https://github.com/amirrezafarokhy/ubuntu.png" height="4" weight="4"/>
+* Linux <img  src="https://github.com/amirrezafarokhy/ubuntu.png" height="40" weight="40"/>
 * python 🐍
 * Machine and Deep Learning (NLP, Image Processing, LLM, ...) 🤖:
 * Docker :whale: and DevOps 
