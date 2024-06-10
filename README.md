@@ -24,7 +24,6 @@ My name is `Amirreza` from Iran. I am a Python programmer. I learned Python sinc
 
 # 🏆 Certifications
 * [Supervised Machine Learning: Regression and Classification Stanford University](https://www.coursera.org/account/accomplishments/verify/NK9UKJFNMQJH)
-* <a href="https://www.coursera.org/account/accomplishments/verify/NK9UKJFNMQJH">Supervised Machine Learning: Regression and Classification Stanford University</a>
 
 * [Back-End Development](https://www.coursera.org/account/accomplishments/certificate/NCJJZXURBKNN)
 
