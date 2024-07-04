@@ -12,13 +12,18 @@ My name is `Amirreza` from Iran. I am a Python programmer. I learned Python sinc
 | Skill | THING-TO-RANK |
 |------:|---------------|
 |      1|    Python 🐍  | 
-|      2|   ML / DL     |
-|      3|               |
-|      3|               |
-|      3|               |
-|      3|               |
-|      3|               |
-|      3|               |
+|      2|    Linux ℹ️  | 
+|      3|   Machine and Deep Learning (NLP, Image Processing, LLM, ...) 🤖    |
+|      4|     Docker :whale: and DevOps           |
+|      5|      Big Data processing and distributed computing frameworks         |
+|      6|       Back-End         |
+|      7|        Django and Django Rest Framework (DRF)       |
+|      8|      FastAPI         |
+|      9|        RestFull API       |
+|      10|        RestFull API       |
+|      11|        Databases (SQL, NoSQL)       |
+|      12|        Microservice (gRPC, ...)       |
+
 
 
 
