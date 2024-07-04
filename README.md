@@ -11,8 +11,8 @@ My name is `Amirreza` from Iran. I am a Python programmer. I learned Python sinc
 # 🔭 Expertise
 | Skill | THING-TO-RANK |
 |------:|---------------|
-|       |               |
-|      2|               |
+|      1|    Python 🐍  | 
+|      2|   ML / DL     |
 |      3|               |
 |      3|               |
 |      3|               |
@@ -23,7 +23,7 @@ My name is `Amirreza` from Iran. I am a Python programmer. I learned Python sinc
 
 
 * Linux 
-* python 🐍
+* python 
 * Machine and Deep Learning (NLP, Image Processing, LLM, ...) 🤖
 * Docker :whale: and DevOps 
 * Big Data processing and distributed computing frameworks (Spark)
