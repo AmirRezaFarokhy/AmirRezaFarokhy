@@ -5,7 +5,7 @@
 My name is `Amirreza` from Iran. I am a Python programmer. I learned Python since I was 15 years old and now I'm into Machine Learning, Deep Learning and Back End (Django, FastAPI) and I'm trying to update my knowledge in these areas.
 
 ```python 
-from AmirReza import your_problems
+from AmirReza import YourProblems
 output = YourProblems.Solution(many_times=True).complete()
 if output.exist:
     print(f"Hi. We found your problem and here is the solution {output.solutions}.") 😏
