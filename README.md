@@ -9,7 +9,7 @@ My name is `Amirreza` from Iran. I am a Python programmer. I learned Python sinc
 ##### ✉️ How to reach me amirreza.farokhy81@gmail.com
 
 # 🔭 Expertise
-| Skill | THING-TO-RANK |
+| Number | Skill |
 |------:|---------------|
 |      1|    Python 🐍  | 
 |      2|    Linux ℹ️  | 
