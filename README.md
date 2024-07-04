@@ -23,7 +23,7 @@ else:
 |      2|    Linux ℹ️  | 
 |      3|   Machine and Deep Learning (NLP, Image Processing, LLM, ...) 🤖    |
 |      4|     Docker :whale: and DevOps           |
-|      5|      Big Data processing and distributed computing frameworks         |
+|      5|      Big Data processing and distributed computing frameworks (PySpark)       |
 |      6|       Back-End         |
 |      7|        Django and Django Rest Framework (DRF)       |
 |      8|      FastAPI         |
