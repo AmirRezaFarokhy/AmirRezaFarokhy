@@ -8,9 +8,9 @@ My name is `Amirreza` from Iran. I am a Python programmer. I learned Python sinc
 from AmirReza import YourProblems
 output = YourProblems.Solution(many_times=True).Complete()
 if output.exist:
-    print(f"Hi we found your problem and this is solution {output.solutions}") 😏
+    print(f"Hi. We found your problem and here is the solution {output.solutions}.") 😏
 else:
-    print("We Called you after solving...") 😉
+    print("We will contact you after the solution...") 😉
 ```
 
 ##### ✉️ How to reach me amirreza.farokhy81@gmail.com
