@@ -44,7 +44,6 @@ else:
 * [Python Programming from Google](https://www.coursera.org/account/accomplishments/verify/JBVH9SNUGV72)
 
 
-#### ✉️ How to reach me amirreza.farokhy81@gmail.com
   ____
 
 <h3 align="center">Statistics</h3>
@@ -56,3 +55,5 @@ else:
 </div>
 </div>
 
+
+#### ✉️ How to reach me amirreza.farokhy81@gmail.com
