@@ -26,19 +26,6 @@ My name is `Amirreza` from Iran. I am a Python programmer. I learned Python sinc
 
 
 
-
-* Linux 
-* python 
-* Machine and Deep Learning (NLP, Image Processing, LLM, ...) 🤖
-* Docker :whale: and DevOps 
-* Big Data processing and distributed computing frameworks (Spark)
-* Back-End 
-* Django and Django Rest Framework (DRF)
-* FastAPI
-* RestFull API
-* Databases (SQL, NoSQL)
-
-
 # 🏆 Certifications
 * [Supervised Machine Learning: Regression and Classification Stanford University](https://www.coursera.org/account/accomplishments/verify/NK9UKJFNMQJH)
 
