@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there ...🤙 /h3>
+<h3 align="center"> Hi there ...🤙 </h3>
 <p align="center">A man with knowledge of BackEnd, DataScience and AI</p>
 
 ### 👨‍💻 I love solving complex problems 
