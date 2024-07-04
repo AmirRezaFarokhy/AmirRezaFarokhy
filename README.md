@@ -9,8 +9,7 @@ My name is `Amirreza` from Iran. I am a Python programmer. I learned Python sinc
 ##### ✉️ How to reach me amirreza.farokhy81@gmail.com
 
 # 🔭 Expertise
-<details>
-<summary>Expertise</summary>
+
 | Number | Skill's |
 |------:|---------------|
 |      1|    Python 🐍  | 
@@ -25,7 +24,7 @@ My name is `Amirreza` from Iran. I am a Python programmer. I learned Python sinc
 |      10|        RestFull API       |
 |      11|        Databases (SQL, NoSQL)       |
 |      12|        Microservice (gRPC, ...)       |
-</details>
+
 
 
 # 🏆 Certifications
