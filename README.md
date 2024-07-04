@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa](https://github.com/AmirRezaFarokhy/AmirRezaFarokhy/edit/main/ubuntu.png)">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/AmirRezaFarokhy/AmirRezaFarokhy/edit/main/ubuntu.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="[https://github.com/AmirRezaFarokhy/AmirRezaFarokhy/edit/main/ubuntu.png](https://github.com/AmirRezaFarokhy/AmirRezaFarokhy/blob/main/ubuntu.png)">
 </picture>
 
 
