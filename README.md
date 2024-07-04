@@ -2,20 +2,26 @@
 <p align="center">A man with knowledge of BackEnd, DataScience and AI</p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AmirRezaFarokhy/AmirRezaFarokhy/edit/main/ubuntu.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AmirRezaFarokhy/AmirRezaFarokhy/edit/main/ubuntu.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/AmirRezaFarokhy/AmirRezaFarokhy/edit/main/ubuntu.png">
-</picture>
-
 
 ### I love solving complex problems 🤙 👨‍💻
 My name is `Amirreza` from Iran. I am a Python programmer. I learned Python since I was 15 years old and now I'm into Machine Learning, Deep Learning and Back End (Django, FastAPI) and I'm trying to update my knowledge in these areas.
 
 ##### ✉️ How to reach me amirreza.farokhy81@gmail.com
 
-
 # 🔭 Expertise
+| Skill | THING-TO-RANK |
+|------:|---------------|
+|       |               |
+|      2|               |
+|      3|               |
+|      3|               |
+|      3|               |
+|      3|               |
+|      3|               |
+|      3|               |
+
+
+
 * Linux 
 * python 🐍
 * Machine and Deep Learning (NLP, Image Processing, LLM, ...) 🤖
