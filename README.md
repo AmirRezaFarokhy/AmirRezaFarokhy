@@ -6,9 +6,9 @@ My name is `Amirreza` from Iran. I am a Python programmer. I learned Python sinc
 
 ```python 
 from AmirReza import YourProblems
-Result = YourProblems.Solution(many_times=True).Complete()
-if Result.exist():
-  print(f"Hi we found your problem and this is solution {Result.solutions}")
+output = YourProblems.Solution(many_times=True).Complete()
+if output.exist:
+  print(f"Hi we found your problem and this is solution {output.solutions}")
 ```
 
 ##### ✉️ How to reach me amirreza.farokhy81@gmail.com
