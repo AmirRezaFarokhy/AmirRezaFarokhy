@@ -6,7 +6,7 @@ My name is `Amirreza` from Iran. I am a Python programmer. I learned Python sinc
 
 ```python 
 from AmirReza import YourProblems
-output = YourProblems.Solution(many_times=True).Complete()
+output = YourProblems.Solution(many_times=True).complete()
 if output.exist:
     print(f"Hi. We found your problem and here is the solution {output.solutions}.") 😏
 else:
