@@ -36,7 +36,7 @@ else:
 
 
 # 🏆 Certifications
-* [Supervised Machine Learning: Regression and Classification Stanford University](https://www.coursera.org/account/accomplishments/verify/NK9UKJFNMQJH)
+* [Supervised Machine Learning Stanford](https://www.coursera.org/account/accomplishments/verify/NK9UKJFNMQJH)
 
 * [Back-End Development](https://www.coursera.org/account/accomplishments/certificate/NCJJZXURBKNN)
 
