@@ -34,7 +34,6 @@ else:
 |      12|        Microservice (gRPC, ...)       |
 
 
-
 # 🏆 Certifications
 * [Supervised Machine Learning Stanford](https://www.coursera.org/account/accomplishments/verify/NK9UKJFNMQJH)
 
