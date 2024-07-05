@@ -46,7 +46,6 @@ else:
 
 * [Python Programming from Google](https://www.coursera.org/account/accomplishments/verify/JBVH9SNUGV72)
 
-
   ____
 
 <h3 align="center">Statistics</h3>
