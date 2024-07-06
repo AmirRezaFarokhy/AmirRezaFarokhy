@@ -31,9 +31,8 @@ How's Boston? Are you used to the cold wea
 |      7|        Django and Django Rest Framework (DRF)       |
 |      8|      FastAPI         |
 |      9|        RestFull API       |
-|      10|        RestFull API       |
-|      11|        Databases (SQL, NoSQL)       |
-|      12|        Microservice (gRPC, ...)       |
+|      10|        Databases (SQL, NoSQL)       |
+|      11|        Microservice (gRPC, ...)       |
 
 
 # 🏆 Certifications
