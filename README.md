@@ -31,7 +31,6 @@ else:
 |      10|        Databases (SQL, NoSQL)       |
 |      11|        Microservice (gRPC, ...)       |
 
-
 # 🏆 Certifications
 * [Supervised Machine Learning Stanford](https://www.coursera.org/account/accomplishments/verify/NK9UKJFNMQJH)
 
