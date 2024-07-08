@@ -1,5 +1,4 @@
 <h1 align="center"> Hi there ...🤙 </h1>
-
 ## 👨‍💻 I love solving complex problems 
 <p align="left">A man with knowledge of BackEnd, DataScience and AI</p>
 
