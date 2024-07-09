@@ -16,7 +16,6 @@ else:
 ```
 
 # 🔭 Expertise
-
 | Number | Skill's |
 |------:|---------------|
 |      1|    Python 🐍  | 
