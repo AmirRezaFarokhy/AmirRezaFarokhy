@@ -23,14 +23,15 @@ else:
 |      1|    Python 🐍  | 
 |      2|    Linux ℹ️  | 
 |      3|   Machine and Deep Learning (NLP, Image Processing, LLM, ...) 🤖    |
-|      4|     Docker :whale: and DevOps           |
-|      5|      Big Data processing and distributed computing frameworks (PySpark)       |
-|      6|       Back-End         |
-|      7|        Django and Django Rest Framework (DRF)       |
-|      8|      FastAPI         |
-|      9|        RestFull API       |
-|      10|        Databases (SQL, NoSQL)       |
-|      11|        Microservice (gRPC, ...)       |
+|      4| Data Science   |
+|      5|     Docker :whale: and DevOps           |
+|      6|      Big Data processing and distributed computing frameworks (PySpark)       |
+|      7|       Back-End         |
+|      8|        Django and Django Rest Framework (DRF)       |
+|      9|      FastAPI         |
+|      10|        RestFull API       |
+|      11|        Databases (SQL, NoSQL)       |
+|      12|        Microservice (gRPC, ...)       |
 
 # 🏆 Certifications
 * [Supervised Machine Learning Stanford](https://www.coursera.org/account/accomplishments/verify/NK9UKJFNMQJH)
