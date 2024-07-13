@@ -31,16 +31,6 @@ else:
 |      11|        Databases (SQL, NoSQL)       |
 |      12|        Microservice (gRPC, ...)       |
 
-# 🏆 Certifications
-* [Supervised Machine Learning Stanford](https://www.coursera.org/account/accomplishments/verify/NK9UKJFNMQJH)
-
-* [Back-End Development](https://www.coursera.org/account/accomplishments/certificate/NCJJZXURBKNN)
-
-* [Bias Detection and Feature Engineering](https://www.coursera.org/account/accomplishments/verify/4ZXEQKYY3LFT)
-
-* [Feature Engineering](https://www.coursera.org/account/accomplishments/verify/AXX4LJG6KR24)
-
-* [Python Programming from Google](https://www.coursera.org/account/accomplishments/verify/JBVH9SNUGV72)
 
   ____
 
