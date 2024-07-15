@@ -5,7 +5,9 @@
 
 Hi. My name is `Amirreza` from Iran. I am a `Python programmer`. I learned Python since I was 15 years old and now I'm into `Machine Learning`, `Deep Learning` and `Back End` (`Django`, `FastAPI`) and I'm trying to update my knowledge in these areas
 
-#### ✉️ How to reach me amirreza.farokhy81@gmail.com
+#### ✉️ How to reach me 
+<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/gmail.png" href="amirreza.farokhy81@gmail.com" />
+
 ```python 
 from AmirReza import YourProblems
 output = YourProblems.Solution(many_times=True).complete()
@@ -18,8 +20,8 @@ else:
 # 🔭 Expertise
 | Number | Skill's |
 |------:|---------------|
-|      1|    Python <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/pyload.png"/>  | 
-|      2|    Linux ℹ️ <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/> <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/ubuntu.png" /> | 
+|      1|    Python <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png"/>  | 
+|      2|    Linux <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/> <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/ubuntu.png" /> | 
 |      3|   Machine and Deep Learning (NLP, Image Processing, LLM, ...)  <img height="25" width="25" src="https://camo.githubusercontent.com/2d609418566a429782a470abad1fb6aa1c4f1311a139c0c98fddf16b05bfacc2/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e63762f6f70656e63762d69636f6e2e737667" />    |
 |      4| Data Science   |
 |      5|     Docker and DevOps   <img height="25" width="25" src="https://camo.githubusercontent.com/fcafa5ebc1f5f789ae7d012a3ecd8fe7bda49516591caf7c37698f764165d880/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" />    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/docker-moby.png" />     |
