@@ -6,7 +6,7 @@
 Hi. My name is `Amirreza` from Iran. I am a `Python programmer`. I learned Python since I was 15 years old and now I'm into `Machine Learning`, `Deep Learning` and `Back End` (`Django`, `FastAPI`) and I'm trying to update my knowledge in these areas
 
 #### ✉️ How to reach me amirreza.farokhy81@gmail.com
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/linkedin.png" />](https://www.linkedin.com/in/amirreza-farokhy-a30491236/)   [<img height="32" width="32" src="https://camo.githubusercontent.com/251fdadcd76010fb798ad0e57f1953a0e2f4c4b68a84b791c10ae1c1fc49e3bf/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737461636b6f766572666c6f772e737667"/>](https://stackoverflow.com/users/22301128/amirreza-farokhy)   [<img height="32" width="32" src=""/>]()
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/linkedin.png" />](https://www.linkedin.com/in/amirreza-farokhy-a30491236/)   [<img height="32" width="32" src="https://camo.githubusercontent.com/251fdadcd76010fb798ad0e57f1953a0e2f4c4b68a84b791c10ae1c1fc49e3bf/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737461636b6f766572666c6f772e737667"/>](https://stackoverflow.com/users/22301128/amirreza-farokhy)   
 
 ```python 
 from AmirReza import YourProblems
