@@ -50,6 +50,7 @@ else:
 <div align="center">
 <a href="https://github.com/amirrezafarokhy">
 <div><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirrezafarokhy&theme=github_dark" height="180em" /></div>
+    https://camo.githubusercontent.com/5a3e7063eca0bd4186715c696adfbe82c742a7cba32340282ed264fbfd5ee40c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6572726f726669617468636b267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirrezafarokhy&theme=github_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirrezafarokhy&theme=github_dark" height="180em" />
 </div>
