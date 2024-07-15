@@ -5,8 +5,8 @@
 
 Hi. My name is `Amirreza` from Iran. I am a `Python programmer`. I learned Python since I was 15 years old and now I'm into `Machine Learning`, `Deep Learning` and `Back End` (`Django`, `FastAPI`) and I'm trying to update my knowledge in these areas
 
-#### ✉️ How to reach me 
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/gmail.png" href="amirreza.farokhy81@gmail.com" />
+#### ✉️ How to reach me amirreza.farokhy81@gmail.com
+<img height="36" width="36" src="(https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/gmail.png)()" />
 
 ```python 
 from AmirReza import YourProblems
