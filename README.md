@@ -16,7 +16,7 @@ else:
 ```
 
 # 💯 Top tools
-<img height="32" width="32" src="[https://cdn.simpleicons.org/simpleicons](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
 
 
 # 🔭 Expertise
