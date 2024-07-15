@@ -15,10 +15,15 @@ else:
     print("We will contact you after the solution...") 😉
 ```
 
+# 💯 Top tools
+https://camo.githubusercontent.com/2d609418566a429782a470abad1fb6aa1c4f1311a139c0c98fddf16b05bfacc2/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e63762f6f70656e63762d69636f6e2e737667
+
+
+
 # 🔭 Expertise
 | Number | Skill's |
 |------:|---------------|
-|      1|    Python 🐍  | 
+|      1|    Python 🐍   | 
 |      2|    Linux ℹ️  | 
 |      3|   Machine and Deep Learning (NLP, Image Processing, LLM, ...) 🤖    |
 |      4| Data Science   |
