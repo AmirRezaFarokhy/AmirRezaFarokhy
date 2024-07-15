@@ -16,7 +16,7 @@ else:
 ```
 
 # 💯 Top tools
-<img height="32" width="32" src="https://camo.githubusercontent.com/2d609418566a429782a470abad1fb6aa1c4f1311a139c0c98fddf16b05bfacc2/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e63762f6f70656e63762d69636f6e2e737667" />
+<img height="32" width="32" 
 <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
 
 
@@ -25,7 +25,7 @@ else:
 |------:|---------------|
 |      1|    Python 🐍   | 
 |      2|    Linux ℹ️  | 
-|      3|   Machine and Deep Learning (NLP, Image Processing, LLM, ...) 🤖    |
+|      3|   Machine and Deep Learning (NLP, Image Processing, LLM, ...) 🤖  src="https://camo.githubusercontent.com/2d609418566a429782a470abad1fb6aa1c4f1311a139c0c98fddf16b05bfacc2/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e63762f6f70656e63762d69636f6e2e737667" />   |
 |      4| Data Science   |
 |      5|     Docker :whale: and DevOps           |
 |      6|      Big Data processing and distributed computing frameworks (PySpark)       |
