@@ -47,6 +47,8 @@ else:
 
   ____
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirrezafarokhy&show_icons=true&theme=transparent)
+
 <h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/amirrezafarokhy">
