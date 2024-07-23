@@ -54,19 +54,10 @@ else:
 <div align="center">
 <a href="https://github.com/amirrezafarokhy">
 <div><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirrezafarokhy&theme=github_dark" height="180em" /></div>
-      <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=amirrezafarokhy&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=amirrezafarokhy&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=amirrezafarokhy&show_icons=true&theme=dark" />
-</picture>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirrezafarokhy&theme=github_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirrezafarokhy&theme=github_dark" height="180em" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark" height="180em" />
+
 </div>
 </div>
 
