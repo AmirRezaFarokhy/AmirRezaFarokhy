@@ -55,6 +55,7 @@ else:
 <a href="https://github.com/amirrezafarokhy">
 <div><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirrezafarokhy&theme=github_dark" height="180em" /></div>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirrezafarokhy&theme=github_dark" height="180em" />
+<img align="center" src="https://streak-stats.demolab.com/?user=amirrezafarokhy&theme=dark"/>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirrezafarokhy&theme=github_dark" height="180em" />
 </div>
 </div>
