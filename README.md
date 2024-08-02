@@ -32,7 +32,7 @@ else:
 |      8|      FastAPI   <img src="https://styles.redditmedia.com/t5_22y58b/styles/communityIcon_r5ax236rfw961.png" width="24" height="24"/>      |
 |      9|        RestFull API                    <img height="24" width="24" src="https://camo.githubusercontent.com/a13ca5b988ada41839ebe4f88455e63419a1b56fcb5eda207794cd1649a61d2c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" />   |
 |      10|        Databases (SQL, NoSQL)                  <img height="24" width="24" src="https://camo.githubusercontent.com/f878cb7f5415d3e19a0ddb5a5f9cb4d4f5a045addc9dd8f516488093b5a403d9/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d6f6e676f64622e737667" />                    <img height="24" width="24" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" />      |
-|      11|        Microservice (gRPC, ...)       |
+|      11|        Microservice (gRPC, ...)   <img height="24" width="24" src="https://grpc.io/img/logos/grpc-icon-color.png" />    |
 
 # 🏆 Certifications
 * [Supervised Machine Learning Stanford](https://www.coursera.org/account/accomplishments/verify/NK9UKJFNMQJH)
